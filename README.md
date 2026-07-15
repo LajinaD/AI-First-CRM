@@ -1,4 +1,4 @@
-# AI-First CRM – HCP Interaction Module
+# Smart Interaction Management System : AI-First CRM – HCP Interaction Module
 
 ## Overview
 
@@ -18,6 +18,25 @@ This project was developed as part of the AI-First CRM HCP Module assignment.
 The objective is to build an intelligent CRM interaction logging system that combines traditional form-based data entry with an AI assistant capable of understanding natural language and performing CRM operations.
 
 ---
+## Simple Architecture Diagram:
+
+```text
+                 React + Redux
+                       │
+               REST API (FastAPI)
+                       │
+               LangGraph Agent
+                       │
+     ┌──────────┬──────────┬──────────┐
+     │          │          │          │
+ Log Tool   Edit Tool  Search Tool  History Tool
+     │
+ PostgreSQL Database
+
+```
+
+---
+
 
 ## Features
 
