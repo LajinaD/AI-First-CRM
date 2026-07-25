@@ -336,6 +336,25 @@ Follow-up
 
 ---
 
+## Demo
+
+### 1. API Overview (Swagger)
+![API overview](./screenshots/swagger-overview.png)
+
+*All REST and AI endpoints exposed via FastAPI's interactive docs*
+
+### 2. AI Chat — Logging an Interaction
+![Chat logging demo](./screenshots/chat-demo.png)
+
+*Natural language input parsed into structured CRM data by the LangGraph agent*
+
+### 3. AI Chat — Editing a Record
+![Chat edit demo](./screenshots/edit-demo.png)
+
+*Follow-up command updating a previously logged interaction*
+
+
+
 ## Future Enhancements
 
 * Authentication & Authorization
