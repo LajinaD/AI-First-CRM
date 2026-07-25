@@ -339,7 +339,7 @@ Follow-up
 ## Demo
 
 ### 1. API Overview (Swagger)
-![API overview](./screenshots/swagger-overview.png)
+![API overview](https://github.com/LajinaD/AI-First-CRM/blob/0ac451edb57f4477197f683618f80393b0107657/Screenshot%202026-07-24%20213620.png)
 
 *All REST and AI endpoints exposed via FastAPI's interactive docs*
 
