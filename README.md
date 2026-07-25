@@ -344,7 +344,8 @@ Follow-up
 *All REST and AI endpoints exposed via FastAPI's interactive docs*
 
 ### 2. AI Chat — Logging an Interaction
-![Chat logging demo](./screenshots/chat-demo.png)
+![Chat logging demo](https://github.com/LajinaD/AI-First-CRM/blob/a4c6151e85051437be6a040dc23707a8e0fdd729/Screenshot%202026-07-25%20123727.png)
+![Chat logging demo](https://github.com/LajinaD/AI-First-CRM/blob/a4c6151e85051437be6a040dc23707a8e0fdd729/Screenshot%202026-07-25%20123815.png)
 
 *Natural language input parsed into structured CRM data by the LangGraph agent*
 
