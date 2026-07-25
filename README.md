@@ -350,7 +350,8 @@ Follow-up
 *Natural language input parsed into structured CRM data by the LangGraph agent*
 
 ### 3. AI Chat — Editing a Record
-![Chat edit demo](./screenshots/edit-demo.png)
+![Chat edit demo](https://github.com/LajinaD/AI-First-CRM/blob/4a7e0cca1317537803e73fe6cfb343a1eacc4aaa/Screenshot%202026-07-25%20123916.png)
+![Chat logging demo](https://github.com/LajinaD/AI-First-CRM/blob/4a7e0cca1317537803e73fe6cfb343a1eacc4aaa/Screenshot%202026-07-25%20123934.png)
 
 *Follow-up command updating a previously logged interaction*
 
